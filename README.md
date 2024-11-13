@@ -1,1 +1,0 @@
-Live Demo: https://dustunderbag.github.io/Restaurant-Page
