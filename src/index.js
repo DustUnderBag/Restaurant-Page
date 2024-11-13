@@ -27,7 +27,6 @@ tabs.addEventListener('click', e => {
 
 });
 
-
 loadHome();
 
 console.log("Script runnig");
